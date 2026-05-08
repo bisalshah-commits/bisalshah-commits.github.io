@@ -74,14 +74,14 @@ author:
   steam            : "https://store.steampowered.com/join/?"
   telegram         : # URL
   tumblr           : # Username
-  twitter          :"https://x.com/"
+  twitter          :
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  itch             :"https://bisalshah.itch.io/"
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

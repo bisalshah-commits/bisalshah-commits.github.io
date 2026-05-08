@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Bisal Shah"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I'm Bisal Shah, a game designer and Unity developer. I love creating interactive 3D environments and immersive experiences. My journey blends creative design with technical skills to build games that tell stories and engage players."
+  location         : "Bengaluru, karntaka"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Bisalshah536@gmail.com" 
 
   # Academic websites
   academia         : # URL

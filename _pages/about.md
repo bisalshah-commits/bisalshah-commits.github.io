@@ -26,7 +26,7 @@ View [Projects](projects) or watch the trailer for my [Released Steam Game](http
 <div class="video-container">
   <div class="video">
     <iframe 
-      src="https://www.youtube.com/embed/KpMQaVLg24U?autoplay=1&mute=1&loop=1&playlist=KpMQaVLg24U&controls=0&modestbranding=1&rel=0](https://youtu.be/EZ6-GX7TMkg"
+      src="[https://www.youtube.com/embed/KpMQaVLg24U?autoplay=1&mute=1&loop=1&playlist=KpMQaVLg24U&controls=0&modestbranding=1&rel=0](https://youtu.be/EZ6-GX7TMkg](https://youtu.be/EZ6-GX7TMkg?si=TyqFPzSLzEU1KvP2)"
       frameborder="0"
       allow="autoplay; fullscreen"
       allowfullscreen>

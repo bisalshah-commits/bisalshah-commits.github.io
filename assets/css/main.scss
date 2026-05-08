@@ -1,9 +1,18 @@
-@import
+---
+---
+
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
+@import 
     "vendor/breakpoint/breakpoint",
 
     "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+    "theme/{{ site.site_theme | default: 'default' }}",
 
     "include/mixins",
     "vendor/susy/susy",
@@ -25,29 +34,27 @@
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-    "layout/json_cv",
-
+    
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
+    "vendor/font-awesome/brands",
+    "vendor/magnific-popup/magnific-popup"
 ;
-
-
 /* VIDEO FIX */
 
 .video-container {
     position: relative;
     width: 100%;
-    padding-bottom: 56.25%;
+    max-width: 900px;
+    aspect-ratio: 16 / 9;
     overflow: hidden;
     border-radius: 12px;
+    margin-top: 1rem;
 }
 
 .video-container iframe {
-    position: absolute;
-    top: -60px;
-    left: 0;
     width: 100%;
-    height: calc(100% + 120px);
+    height: 100%;
     border: none;
+    display: block;
 }

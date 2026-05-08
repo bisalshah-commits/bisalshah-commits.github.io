@@ -24,7 +24,14 @@ I’m always open to new opportunities — <i>feel free to get in touch!</i>
 View [Projects](projects) or watch the trailer for my [Released Steam Game](https://store.steampowered.com/app/1877560/Walter_Walnut/) below:
 
 <div class="video-container">
-<div class="video"><iframe src="https://www.youtube.com/embed/KpMQaVLg24U" frameborder="0" allowfullscreen></iframe></div>
+  <div class="video">
+    <iframe 
+      src="https://www.youtube.com/embed/KpMQaVLg24U?autoplay=1&mute=1&loop=1&playlist=KpMQaVLg24U"
+      frameborder="0"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe>
+  </div>
 </div>
 
 

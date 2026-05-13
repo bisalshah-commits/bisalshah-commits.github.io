@@ -18,10 +18,12 @@ redirect_from:
 
 
 
-Passionate nity Game Designer & Developer specializing in F2P and casual game mechanics, with hands-on experience designing balanced economies, reward loops, and content systems that drive player retention. Skilled in GDD creation, prototyping, and iterative playtesting — experienced collaborating with cross-functional teams to bring game concepts to life. 
+I'm a game designer and developer with a Master's in software development. 
+While programming is my forte, I’m passionate about a wide range of creative projects, from game development to 2D art, video editing, and wildlife photography. 
 I’m always open to new opportunities — <i>feel free to get in touch!</i>
 
-View [Projects](projects) or watch the trailer for my [Released Steam Game](https://store.steampowered.com/app/1877560/Walter_Walnut/) below:
+
+View [Projects](projects) or watch the trailer for my [itch.io Game]([https://store.steampowered.com/app/1877560/Walter_Walnut/](https://bisalshah.itch.io/cube-runner)) below:
 
 <div class="video-container">
   <div class="video">

@@ -25,8 +25,13 @@ I’m always open to new opportunities — <i>feel free to get in touch!</i>
 
 View [Projects](projects) or watch the trailer for my [itch.io Game]([https://store.steampowered.com/app/1877560/Walter_Walnut/](https://bisalshah.itch.io/cube-runner)) below:
 
-<div class="video-container">
-<div class="video"><iframe src="https://www.youtube.com/embed/EZ6-GX7TMkg?autoplay=1&mute=1&loop=1&playlist=EZ6-GX7TMkg&controls=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper">
+  <iframe 
+    src="https://www.youtube.com/embed/EZ6-GX7TMkg?autoplay=1&mute=1&loop=1&playlist=EZ6-GX7TMkg&controls=0&modestbranding=1&rel=0&showinfo=0" 
+    frameborder="0" 
+    allow="autoplay; encrypted-media" 
+    allowfullscreen>
+  </iframe>
 </div>
  
 <!--  <i>More info about Formbound will go here once the steam page is live</i> -->
